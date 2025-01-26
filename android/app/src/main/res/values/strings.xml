@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">login</string>
+    <string name="title_activity_main">login</string>
+    <string name="package_name">com.ali.login</string>
+    <string name="custom_url_scheme">com.ali.login</string>
+    <string name="server_client_id">793884728909-mu5dehr3158vc1e6et8ba19vua0cvg7n.apps.googleusercontent.com</string>
+</resources>
